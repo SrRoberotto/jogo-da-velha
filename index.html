@@ -15,6 +15,24 @@
     Jogo da Velha
 </h1>
 
+<div class="jogador" id="div-jogador">
+    <label>
+        Jogador:
+    </label>
+    <label id="jogador-selecionado">
+
+    </label>
+</div>
+
+<div class="vencedor">
+    <label id="vencedor-empate">
+        
+    </label>
+    <label id="vencedor-selecionado">
+
+    </label>
+</div>
+
 <div>
     <div id="1" class="quadrado" onclick="escolherQuadrado(this.id)">-</div>
     <div id="2" class="quadrado" onclick="escolherQuadrado(this.id)">-</div>
@@ -33,23 +51,7 @@
     <div id="9" class="quadrado" onclick="escolherQuadrado(this.id)">-</div>
 </div>
 
-<div class="jogador">
-    <label>
-        Jogador:
-    </label>
-    <label id="jogador-selecionado">
 
-    </label>
-</div>
-
-<div class="vencedor">
-    <label>
-        Vencedor:
-    </label>
-    <label id="vencedor-selecionado">
-
-    </label>
-</div>
 
 <div>
     <button onclick="reiniciar()">

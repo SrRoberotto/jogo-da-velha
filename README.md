@@ -9,6 +9,10 @@ Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Java
 
 Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
 
+## Próximos passos
+[X] Melhoria nas informações de empate e vitória 
+[ ] Implementar IA para jogar contra o computador
+
+
 ## Links
 
-[PPT utilizado](https://docs.google.com/presentation/d/1-ao-3echbBHzdSqRF726K4GUFMn7JoL0dhoJWyPORXY/edit?usp=sharing)
